@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CxJ5jYoslw8DkfVej02W6vQ7wl6NF2wU9P9+HWmW4sByvOM9E36VOEs2kt9yHk4iX1FC5O9BDRIigH0EGOJTCA==",
+  "success": true,
+  "projectFilePath": "/home/adarsh/amfoss-tasks/task-05/Server/Server.csproj",
+  "expectedPackageFiles": [
+    "/home/adarsh/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
