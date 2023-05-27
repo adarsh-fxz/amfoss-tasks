@@ -1,0 +1,11 @@
+/home/adarsh/amfoss-tasks/task-09/crypto_scrapper/target/debug/deps/string_cache-0f2b558946561260.rmeta: /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/lib.rs /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/atom.rs /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/dynamic_set.rs /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/static_sets.rs /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/trivial_impls.rs
+
+/home/adarsh/amfoss-tasks/task-09/crypto_scrapper/target/debug/deps/libstring_cache-0f2b558946561260.rlib: /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/lib.rs /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/atom.rs /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/dynamic_set.rs /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/static_sets.rs /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/trivial_impls.rs
+
+/home/adarsh/amfoss-tasks/task-09/crypto_scrapper/target/debug/deps/string_cache-0f2b558946561260.d: /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/lib.rs /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/atom.rs /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/dynamic_set.rs /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/static_sets.rs /home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/trivial_impls.rs
+
+/home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/lib.rs:
+/home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/atom.rs:
+/home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/dynamic_set.rs:
+/home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/static_sets.rs:
+/home/adarsh/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/trivial_impls.rs:
