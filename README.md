@@ -74,6 +74,6 @@ Designing UI was an exciting and refreshing task for me, as I love photo and vid
 
 As I knew the basic terminal commands, it was easy for me to progress up to a few levels. After that as the difficulty increased, I had to seek help from YouTube.
 
-#### [task-15](https://github.com/adarsh8848/amfoss-tasks/tree/main/task-15): CS50
+#### [task-15](https://github.com/adarsh8848/amfoss-tasks/tree/main/task-15): Project Euler
 
 I started solving questions with my own logic, but that was not sufficient. I learned about time and complexity and then proceeded to solve the questions.
